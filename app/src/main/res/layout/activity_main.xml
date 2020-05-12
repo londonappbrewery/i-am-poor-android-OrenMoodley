@@ -17,7 +17,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="90dp"
 
         android:text="@string/title"
         android:textColor="#F3070707"
@@ -29,8 +29,9 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
-        android:layout_marginTop="165dp"
-        app:srcCompat="@drawable/coal"
-        android:layout_alignParentRight="true" />
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="280dp"
+           android:contentDescription="@string/Coal_Image"
+        app:srcCompat="@drawable/coal" />
 
 </RelativeLayout>
